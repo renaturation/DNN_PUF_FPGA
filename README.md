@@ -10,4 +10,4 @@ The main code is from the repository [cnn_open](https://github.com/lulinchen/cnn
 **Product Doc**: http://www.alinx.vip:81/ug%2FAV7K325_UG.pdf
 
 # Model Structure
-
+![1](lenet model.png)
