@@ -21,7 +21,7 @@
 `include "global.vh"
 
 
-module lenet_top(
+module top(
     input clk,
     input rstn,
     output reg led1,
